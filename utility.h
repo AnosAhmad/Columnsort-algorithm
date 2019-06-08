@@ -1,0 +1,24 @@
+#ifndef UTILITY_H
+#define UTILITY_H
+
+//Gives ANSI version of standard includes
+
+#include <iostream>
+#include <limits>
+#include <cmath>
+#include <cstdlib>
+#include <cstddef>
+#include <fstream>
+#include <cctype>
+#include <ctime>
+#include <string>
+#include <vector>
+#include "Columnsort.h"
+#include <sstream>
+#include "Timerr.h"
+
+
+using namespace std;
+
+
+#endif //UTILITY_H
